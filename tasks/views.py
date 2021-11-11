@@ -136,4 +136,3 @@ class TasksDelete(View):
 #     serializer_class = TaskSerializer
 #
 
-# Create your views here.
